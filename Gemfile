@@ -2,5 +2,5 @@ source :rubygems
 
 gem "jekyll"
 gem "rdiscount"
-gem "RedCloth", "4.2.8"
+gem "RedCloth", "4.3.0"
 gem "compass"
